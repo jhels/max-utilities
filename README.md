@@ -8,6 +8,8 @@ All signal-rate objects listed below have multichannel equivalents included alon
 
 #### Synths and Oscillators
 
+* fm\~. Frequency modulation (FM) synth with adjustable envelopes.
+
 * karplus\~. A gen\~ implementation of the [Karplus-Strong string synthesis](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis).
 
 * oscs\~. A wrapper for the four basic oscillators provided by Max/MSP: cycle\~, saw\~, tri\~ and rect\~ (sine, sawtooth, triangluar and rectangular waves). Allows you to choose one and switch between them quickly.
