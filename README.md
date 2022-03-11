@@ -32,7 +32,7 @@ All signal-rate objects listed below have multichannel equivalents included alon
 
 * counters and counters-off. Allows you to create a named group of counters which can be reset simultaneously using the counters-off object. This can be useful for timing and rhythm purposes.
 
-* hot.operators (various). Versions of the standard operator objects (+, - *, /, pow, etc.) which are triggered by inputs from either inlet, instead of only the left inlet.
+* hot.operators. Versions of the standard operator objects (+, - \*, /, pow, etc.) which are triggered by inputs from either inlet, instead of only the left inlet.
 
 * makenotelist. Outputs {pitch, velocity} pairs in a list, instead of from different outlets as with the native makenote object.
 
