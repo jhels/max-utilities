@@ -20,11 +20,15 @@ All signal-rate objects listed below have multichannel equivalents included alon
 
 #### Effects
 
+* bandstop\~. A simple bandstop filter.
+
 * biquadUI\~. Integrates the biquad\~ audio filter with an interface so you can initialise the filter and control it without further patching..
 
 * envdraw\~. Allows you to draw an signal envelope with your mouse and trigger it with a bang, for use with other DSP objects. Applies smoothing as desired using a simple moving average.
 
 * filterknob\~. Filter knob similar to those found on certain DJ mixers. Turning it below 0 activates and allows you to control a low-pass filter; turning it above 0 does likewise with a high-pass filter. Also has adjustable resonance.
+
+* hires\~. A simple, resonant, high-pass filter.
 
 ### Utilities
 
