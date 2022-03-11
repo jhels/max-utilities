@@ -2,7 +2,7 @@
 
 A collection of simple abstractions for Max/MSP that make patching a little bit faster.
 
-All signal-rate objects listed below have multichannel equivalents included alongside them: just prefix any object ending in `~` with `.mc` to use these.
+All signal-rate objects listed below have multichannel equivalents included alongside them: just prefix any object ending in `~` with `mc.` to use these.
 
 ### DSP
 
