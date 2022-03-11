@@ -24,6 +24,8 @@ All signal-rate objects listed below have multichannel equivalents included alon
 
 * filterknob\~. Filter knob similar to those found on certain DJ mixers. Turning it below 0 activates and allows you to control a low-pass filter; turning it above 0 does likewise with a high-pass filter. Also has adjustable resonance.
 
+* gendelay\~. Simple sample-based delay with adjustable delay time, decay, and feedback.
+
 * hires\~. A simple, resonant, high-pass filter.
 
 ### Utilities
